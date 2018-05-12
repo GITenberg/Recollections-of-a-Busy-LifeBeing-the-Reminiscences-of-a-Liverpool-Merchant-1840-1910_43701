@@ -1,0 +1,29 @@
+_repo: Recollections-of-a-Busy-LifeBeing-the-Reminiscences-of-a-Liverpool-Merchant-1840-1910_43701
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43701-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Forwood, William Bower, Sir
+    alias: Forwood, William B. (William Bower), Sir
+    birthdate: 1840
+    deathdate: 1928
+    gutenberg_agent_id: '42373'
+    url: http://www.gutenberg.org/2009/agents/42373
+description: ''
+gutenberg_issued: '2013-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43701'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Forwood, William Bower, Sir, 1840-1928'
+- !lcsh 'Merchants -- England -- Liverpool -- Biography'
+title: 'Recollections of a Busy Life: Being the Reminiscences of a Liverpool Merchant
+  1840-1910'
+url: http://www.gutenberg.org/ebooks/43701
